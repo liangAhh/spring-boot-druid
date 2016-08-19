@@ -2,7 +2,6 @@ package liangchong998.controller;
 
 import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
-import com.github.pagehelper.PageInfo;
 import liangchong998.mapper.UserInfoMapper;
 import liangchong998.model.UserInfo;
 import org.apache.log4j.Logger;
